@@ -3,4 +3,4 @@ Resolusi :
 - Memperbaiki CV
 - Memperbaiki LinkedIn
 - Mengikuti Sertifikasi
-- Memasukkan project ke github
+- Mencari informasi magang
