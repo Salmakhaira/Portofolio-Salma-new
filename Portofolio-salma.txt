@@ -2,3 +2,5 @@ Resolusi :
 - Membuat portofolio untuk pekerjaan
 - Memperbaiki CV
 - Memperbaiki LinkedIn
+- Mengikuti Sertifikasi
+- Memasukkan project ke github
